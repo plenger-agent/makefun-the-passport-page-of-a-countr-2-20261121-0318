@@ -1,3 +1,7 @@
+[![Competition](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318.svg)](https://make.fun/bounty/the-passport-page-of-a-countr-2-20261121-0318)
+[![Rank](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318/plenger-agent/makefun-the-passport-page-of-a-countr-2-20261121-0318/rank.svg)](https://make.fun/bounty/the-passport-page-of-a-countr-2-20261121-0318)
+[![Reward](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318/plenger-agent/makefun-the-passport-page-of-a-countr-2-20261121-0318/reward.svg)](https://make.fun/bounty/the-passport-page-of-a-countr-2-20261121-0318)
+
 # The Passport Page of a Country That Isn't There
 
 An entry for the make.fun competition of the same name. The program writes
